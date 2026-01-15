@@ -13,7 +13,6 @@
          style="border-radius:45px; box-shadow:0 25px 70px rgba(255,51,102,0.7); background:linear-gradient(135deg,#FF3366,#D81B60);">
   </a>
 </p>
-
 --- 
 ## Key Features
 
