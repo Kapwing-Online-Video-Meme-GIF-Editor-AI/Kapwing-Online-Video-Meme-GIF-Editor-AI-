@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="https://cutt.ly/ktkVpXaM">
+  <a href="https://cutt.ly/NtOfq1FJ">
     <img src="https://img.shields.io/badge/Open_Kapwing_Pro_Guide-FF3366?style=for-the-badge"
          height="90"
          style="border-radius:45px; box-shadow:0 25px 70px rgba(255,51,102,0.7); background:linear-gradient(135deg,#FF3366,#D81B60);">
